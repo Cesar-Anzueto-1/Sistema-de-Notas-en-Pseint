@@ -10,6 +10,5 @@ Algoritmo sistemaDeNotas
 3.-La subopcion "Ingresar datos del estudiante" de "Ingresar notas" solicita ingresar los datos de los estudiantes.
 4.-Las subopcion "Ingresar carnet" de "Ingresar notas" solicita ingresar el carnet de los estudiantes.
 5.- Realizar un arreglo que permita utilizar la informacion de los estudiantes.
-7.- 
-.- Crear un segundo menú para navegar a través de las subopciones de la opción principal "estadísticas".
+6.- Crear un segundo menú para navegar a través de las subopciones de la opción principal "estadísticas".
  

@@ -1,0 +1,15 @@
+Nombre: Cesar Anzueto
+Carnet:26-359-0063
+
+Este programa administra las notas de los estudiantes.
+
+Algoritmo sistemaDeNotas
+
+1.- Crear un menú para navegar a través de las opciones de la interfaz del usuario.
+2.- Crear un segundo menú para navegar a través de las subopciones de la opción principal "Ingresar notas".
+3.-La subopcion "Ingresar datos del estudiante" de "Ingresar notas" solicita ingresar los datos de los estudiantes.
+4.-Las subopcion "Ingresar carnet" de "Ingresar notas" solicita ingresar el carnet de los estudiantes.
+5.- Realizar un arreglo que permita utilizar la informacion de los estudiantes.
+7.- 
+.- Crear un segundo menú para navegar a través de las subopciones de la opción principal "estadísticas".
+ 

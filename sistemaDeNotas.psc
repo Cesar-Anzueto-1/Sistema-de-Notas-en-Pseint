@@ -1,4 +1,0 @@
-Algoritmo sistemaDeNotas
-	
-	
-FinAlgoritmo
